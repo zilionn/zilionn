@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá! Eu sou o Fernando ✌🏻
 
-<!--
-**zilionn/zilionn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-zilion/)
 
-Here are some ideas to get you started:
+![zilionn GitHub stats](https://github-readme-stats.vercel.app/api?username=zilionn&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![zilionn Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zilionn&hide_progress=false)
+
+## Tecnologias do meu dia a dia
+
+<div style="display: inline_block"><br/>
+    <img align="center"   alt = "java" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img align="center"   alt = "phyton" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center"   alt = "html" src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+</div><br/>
+
+Apaixonado por tecnologia e evoluindo aos poucos <3
+
+#### Utilizado para estudos
