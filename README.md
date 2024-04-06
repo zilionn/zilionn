@@ -2,8 +2,6 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-zilion/)
 
-![zilionn GitHub stats](https://github-readme-stats.vercel.app/api?username=zilionn&show_icons=true&theme=tokyonight)
-
 ![zilionn Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zilionn&hide_progress=false)
 
 ## Tecnologias do meu dia a dia
@@ -18,4 +16,6 @@ Apaixonado por tecnologia e evoluindo aos poucos <3
 
 #### Utilizado para estudos
 
-![snake gif](https://github.com/zilionn/zilionn/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/zilionn/zilionn/output/snake.svg" alt="Snake animation" />
+
+###
