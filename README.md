@@ -5,6 +5,9 @@
 
 <p>
   Hi 👋, I'm Fernando! A fullstack developer from Brazil.
+  <a href="https://www.linkedin.com/in/fernando-zilion/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
   - 🌱 I am currently studying Systems Analysis and Development at Fatec
 
@@ -19,48 +22,28 @@
   - ⚡I'm a big fan of Lady Gaga, I'm interested in continuing an academic career relating philosophy to technology and I've already given a lecture on Artificial Intelligence.
 </details>
 
-<!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-zilion/))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zilionn&hide_progress=true)
 
-<!-- GithubStats -->
-![Zilion's GitHub stats](https://github-readme-stats.vercel.app/api?username=zilionn&show_icons=true&theme=radical)
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://giphy.com/embed/3o7aTKeqdwTL6zKP84" alt="Imagem">
-</p>
-
-<div style="width:100%;height:0;padding-bottom:52%;position:relative;"><iframe src="https://giphy.com/embed/3o7aTKeqdwTL6zKP84" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/music-video-lady-gaga-mv-3o7aTKeqdwTL6zKP84">via GIPHY</a></p>
+![Gaga beeing diva](giphy.gif)
 
 
 ## 🔥 Skills
-<!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <h3>Front-End</h3>
+    <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Angular" height="40" width="50" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   </div>
   
-  <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+    <h3>Back-End</h3>
+    <img align="center" alt="Java" height="40" width="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img align="center" alt="C#" height="40" width="50" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+    <img align="center" alt="Python" height="40" width="50" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="C++" height="40" width="50" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </div>
-  
-  <!-- Skills: Libraries -->
-  <div style="flex-basis: 48%;">
-    <h3>Libraries</h3>
-    <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </div>
+
 
 
