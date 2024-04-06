@@ -17,3 +17,5 @@
 Apaixonado por tecnologia e evoluindo aos poucos <3
 
 #### Utilizado para estudos
+
+![snake gif](https://github.com/zilionn/zilionn/blob/output/github-contribution-grid-snake.svg)
